@@ -46,15 +46,6 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'Country data.png',
-    title: 'Weather Data Of All Country',
-    info: 'This webpage was developed using HTML5, CSS3, JAVASCRIPT. It Shows the weather details of all countries.',
-    info2: '',
-    url: 'https://madhaneeswaranp.github.io/RestCountry/',
-    repo: 'https://github.com/MadhaneeswaranP/RestCountry', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'Shopping Cart.png',
     title: 'Shopping Cart',
     info: 'This Webpage was developed using HTML5,CSS3,JAVASCRIPT. This page was developed by using pure javascript without using any Frameworks/Libraries',
