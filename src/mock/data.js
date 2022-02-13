@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'Career-Software-Engineer.png',
   paragraphOne: 'Innovative optimised solution seeker',
-  paragraphTwo:'Excited to be at the deployment phase of my career as a web developer',
-  paragraphThree:'I  am ambitious to be working at your organization.',
+  paragraphTwo: 'Excited to be at the deployment phase of my career as a web developer',
+  paragraphThree: 'I  am ambitious to be working at your organization.',
   resume: 'https://docs.google.com/document/d/1-LiSVuP8MT94MQEfNrP5u0jjCudZQ4v65Yve0HgMkdo/edit', // if no resume, the button will not show up
 };
 
@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Memories Project.png',
     title: 'MEMORIES APPLICATION',
-    info: 'This application was developed using React,Node Js,Mongo DB,Material UI,Express framework. You can create pictures,edit and delete it.',
+    info: 'This application was developed using React, Node Js, Mongo DB, Material UI, Express framework. You can create pictures,edit and delete it.',
     info2: '',
     url: 'https://memories-client-madhan.netlify.app/',
     repo: 'https://github.com/MadhaneeswaranP/memories-project-client', // if no repo, the button will not show up
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Url Shortener project.png',
     title: 'URL SHORTENER',
-    info: 'This application was developed using Node Js,EJS framework,Express,Mongo DB,BootStrap.The application is used to shorten your URL',
+    info: 'This application was developed using Node Js, EJS framework, Express, Mongo DB, BootStrap. The application is used to shorten your URL',
     info2: '',
     url: 'https://url-shortener-madhan.herokuapp.com/',
     repo: 'https://github.com/MadhaneeswaranP/url-shortener', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Country data.png',
     title: 'Weather Data Of All Country',
-    info: 'This webpage was developed using HTML5,CSS3,JAVASCRIPT.It Shows the weather details of all countries.',
+    info: 'This webpage was developed using HTML5, CSS3, JAVASCRIPT. It Shows the weather details of all countries.',
     info2: '',
     url: 'https://madhaneeswaranp.github.io/RestCountry/',
     repo: 'https://github.com/MadhaneeswaranP/RestCountry', // if no repo, the button will not show up
@@ -61,7 +61,7 @@ export const projectsData = [
     info2: '',
     url: 'https://madhaneeswaranp.github.io/Dom-project/',
     repo: 'https://github.com/MadhaneeswaranP/Dom-project', // if no repo, the button will not show up
-  }
+  },
 ];
 
 // CONTACT DATA
