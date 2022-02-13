@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Memories Project.png',
     title: 'MEMORIES APPLICATION',
-    info: 'This application was developed using React,Node Js,Mongo DB,BootStrap,Express framework. You can create pictures,edit and delete it.',
+    info: 'This application was developed using React,Node Js,Mongo DB,Material UI,Express framework. You can create pictures,edit and delete it.',
     info2: '',
     url: 'https://memories-client-madhan.netlify.app/',
     repo: 'https://github.com/MadhaneeswaranP/memories-project-client', // if no repo, the button will not show up
